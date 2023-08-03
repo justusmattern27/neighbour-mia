@@ -1,4 +1,4 @@
-# Neighbourhood MIAs
+## Membership Inference Attacks against Language Models via Neighbourhood Comparison
 
 This is the code for the paper [Membership Inference Attacks against Language Models
 via Neighbourhood Comparison](https://aclanthology.org/2023.findings-acl.719.pdf).
