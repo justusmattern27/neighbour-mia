@@ -3,7 +3,7 @@
 This is the code for the paper [Membership Inference Attacks against Language Models
 via Neighbourhood Comparison](https://aclanthology.org/2023.findings-acl.719.pdf).
 
-Prerequisites:
+### Prerequisites:
 
 To run our code, you need to have a model you want to attack (in `path_to_attack_model`)as well as a dataset consisting of training members and non members. in `attack.py`, examples for news, twitter and wikipedia data are provided. In the code, we assume that the first n lines of the text file are members and the n remaining ones are non-training-members.
 
